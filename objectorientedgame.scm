@@ -1,44 +1,3 @@
-;;;;;;;::;;;;:::;;;;::::;;:;::;:;;:::;;;:;::;;;;:::;::;;;::;:;:;::;:;:
-;;;   The Object-Oriented Adventure Game
-;;;;;;;::;;;;:::;;;;::::;;:;::;:;;:::;;;:;::;;;;:::;::;;;::;:;:;::;::;
-;;;  	    	  	  
-;;; 
-;;;  	    	  	  
-;;; Before you start:  	    	  	  
-;;; * Please read the project handout available on the course
-;;;   web site first to get a basic idea about the project and the
-;;;   logic behind it, then to find out the details about what
-;;;   your tasks are for the rest of the project.
-;;;  	    	  	  
-;;; * The following code should be studied and loaded for this
-;;;   project.  Please do not modify these files, put all your work in
-;;;   this file.  	    	  	  
-;;;  	    	  	  
-;;; - objsys.scm: support for an elementary object system
-;;; - objtypes.scm: a few nice object classes
-;;; - setup.scm: a bizarre world constructed using these classes
-;;;  	    	  	  
-;;; * Plan your work with pencil and paper before starting to code.
-;;;  	    	  	  
-;;; While you are working:  	    	  	  
-;;; * Type all your work and notes in the appropriate sections of this file.
-;;; * Please do not delete any of the existing lines.
-;;; * Use the procedure names given in the instructions.
-;;; * Remember to frequently save your file.
-;;; * Use semicolon (;) to comment out text, tests and unused code.
-;;; * Remember to document your code (in this file)
-;;; * Remember our collaboration policy: you can discuss with your friends but:
-;;;  	    	  	  
-;;;   *** NOTHING WRITTEN GETS EXCHANGED ***
-;;;  	    	  	  
-;;;  	    	  	  
-;;; When you are done:  	    	  	  
-;;; * Perform a final save and submit your work following the instructions.
-;;; * Please do not make any modifications after midnight on the due date.
-;;; * Please send an email comp200@ku.edu.tr if you have any questions.
-;;; * Make sure your file loads without errors:
-;;;  	    	  	  
-;;; *** IF (load "project4.scm") GIVES ERRORS YOUR PROJECT WILL NOT BE GRADED *
 ;;;  	    	  	  
 ;;;  	    	  	  
 ;; Do NOT modify or delete the lines below.
@@ -48,18 +7,7 @@
 (load "setup.scm")  	    	  	  
 (define nil '())  	    	  	  
 (define your-answer-here #f)  	    	  	  
-;;;;;;;;;  	    	  	  
-  	    	  	  
-;;;;;;;::;;;;:::;;;;::::;;:;::;:;;:::;;;:;::;;;;:::;::;;;::;:;:;::;:::
-;;; PART II. Programming Assignment
-;;;  	    	  	  
-;;; The answers to the computer exercises in Section 5 go in the
-;;; appropriate sections below.
-;;;  	    	  	  
-
-
-
-  	    	  	  
+;;;;;;;;;  	    	  	      	  	  
 ;;;;;;;::;;;;:::;;;;::::;;:;::;:;;:::;;;:;::;;;;:::;::;;;::;:;:;:::;;;
 ;;;;;;;;;;;;; Computer Exercise 0: Setting up ;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
